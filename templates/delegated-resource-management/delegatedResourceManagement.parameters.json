@@ -3,30 +3,30 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "Relecloud Managed Services"
+            "value": "Netrix LLC Managed Services"
         },
         "mspOfferDescription": {
-            "value": "Relecloud Managed Services"
+            "value": "Netrix LLC Managed Services"
         },
         "managedByTenantId": {
-            "value": "<insert managing tenant id>"
+            "value": "f224c3c9-5f00-44e8-babd-133e9cd928d1"
         },
         "authorizations": {
             "value": [
                 { 
                     "principalId": "00000000-0000-0000-0000-000000000000", 
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-                    "principalIdDisplayName": "PIM_Group" 
+                    "principalIdDisplayName": "Lighthouse - SusmanGodfrey - Contributor" 
                 }, 
                 { 
                     "principalId": "00000000-0000-0000-0000-000000000000", 
                     "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
-                    "principalIdDisplayName": "PIM_Group"
+                    "principalIdDisplayName": "Lighthouse - SusmanGodfrey - Contributor"
                     
                 },
                 {
                     "principalId": "00000000-0000-0000-0000-000000000000",
-                    "principalIdDisplayName": "PIM_Group",
+                    "principalIdDisplayName": "Lighthouse - SusmanGodfrey - Contributor",
                     "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9",
                     "delegatedRoleDefinitionIds": [
                         "b24988ac-6180-42a0-ab88-20f7382dd24c",
