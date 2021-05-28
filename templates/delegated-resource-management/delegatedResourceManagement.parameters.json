@@ -16,17 +16,17 @@
                 { 
                     "principalId": "00000000-0000-0000-0000-000000000000", 
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-                    "principalIdDisplayName": "Lighthouse - SusmanGodfrey - Contributor" 
+                    "principalIdDisplayName": "Lighthouse - ClientName - Contributor" 
                 }, 
                 { 
                     "principalId": "00000000-0000-0000-0000-000000000000", 
                     "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
-                    "principalIdDisplayName": "Lighthouse - SusmanGodfrey - Contributor"
+                    "principalIdDisplayName": "Lighthouse - ClientName - Contributor"
                     
                 },
                 {
                     "principalId": "00000000-0000-0000-0000-000000000000",
-                    "principalIdDisplayName": "Lighthouse - SusmanGodfrey - Contributor",
+                    "principalIdDisplayName": "Lighthouse - ClientName - Contributor",
                     "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9",
                     "delegatedRoleDefinitionIds": [
                         "b24988ac-6180-42a0-ab88-20f7382dd24c",
